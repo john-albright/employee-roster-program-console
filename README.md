@@ -1,0 +1,3 @@
+# Employee Roster Program - Console
+
+This employee roster console program was created to fulfill the final project requirement for Oakton's CIS 227 C# Programming, a class I took in the spring of 2021 while working towards a [General Programmer Certificate](https://catalog.oakton.edu/career-programs-pathways/computer-information-systems/general-programmer-certificate/). A description of the course can be found in [the Computer Information Systems course descriptions list](https://catalog.oakton.edu/course-descriptions/course-descriptions-discipline/cis/). 
