@@ -319,7 +319,7 @@ namespace CIS227FinalAlbright
                     WriteLine("Please select one of the following options.");
                     WriteLine(">>> Enter A to see the full list of employees currently working.");
                     WriteLine(">>> Enter B to add a new employee to the roster.");
-                    WriteLine(">>> Enter C to remove an employee from the roster.");
+                    WriteLine(">>> Enter C to remove an employee from the roster");
                     WriteLine(">>> Enter D to search the employee roster based on job type.");
                     userResponse = ReadLine();
 

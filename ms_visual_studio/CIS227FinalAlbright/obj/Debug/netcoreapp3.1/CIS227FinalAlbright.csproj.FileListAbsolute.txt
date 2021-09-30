@@ -1,0 +1,13 @@
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\bin\Debug\netcoreapp3.1\CIS227FinalAlbright.exe
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\bin\Debug\netcoreapp3.1\CIS227FinalAlbright.deps.json
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\bin\Debug\netcoreapp3.1\CIS227FinalAlbright.runtimeconfig.json
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\bin\Debug\netcoreapp3.1\CIS227FinalAlbright.runtimeconfig.dev.json
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\bin\Debug\netcoreapp3.1\CIS227FinalAlbright.dll
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\bin\Debug\netcoreapp3.1\CIS227FinalAlbright.pdb
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.csprojAssemblyReference.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.AssemblyInfoInputs.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.AssemblyInfo.cs
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.csproj.CoreCompileInputs.cache
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.dll
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.pdb
+F:\OAKTON\Final_Project_Files\CIS227FinalAlbright\CIS227FinalAlbright\obj\Debug\netcoreapp3.1\CIS227FinalAlbright.genruntimeconfig.cache
